@@ -1,0 +1,3 @@
+ salary = 100
+ name = Tom
+ factory = mixs
